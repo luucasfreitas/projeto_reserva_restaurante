@@ -1,4 +1,4 @@
-# Parkinson's Dashboard API
+# Projeto Sistema de Reservas de Mesa
 
 ---
 Projeto desenvolvido para teste.
