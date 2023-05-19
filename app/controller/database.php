@@ -1,9 +1,9 @@
 <?php
 // Conexão com o banco
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "sistema_reserva_restaurante";
+$dbname = "";
 
 // Criar a conexão
 $conn = new mysqli($servername, $username, $password, $dbname);
