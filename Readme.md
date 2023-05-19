@@ -14,6 +14,7 @@ Projeto desenvolvido com PHP, MySQL, Bootstrap, JavaScript, CSS e HTML.
 
 
 Para testá-lo basta clonar esse repositório dentro da pasta HTDOCS do XAMPP, executar os serviços no XAMPP. Após esse passo, basta configurar a conexão com seu banco MySQL, como no exemplo abaixo:
+Arquivo controller/database.php
 
 ```sh
 # exemplo de conexão:
